@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DataWolf95
 - 👀 I’m interested in Business/Data Analytics
-- 🌱 I’m currently learning R programming
+- 🌱 I’m currently learning R programming, Python ,SQL,etc
 - 💞️ I’m looking to collaborate on topics related to Business/Data Analytics
 - 📫 How to reach me aaravparmar81@gmail.com
 - 😄 Pronouns: He/Him
